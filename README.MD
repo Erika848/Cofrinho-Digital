@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    Podcast 'Cofrinho Digital: o FGTS como você nunca viu antes' criado conforme as orientações do projeto abaixo para o 'Bootcamp Conding The Future: IA Generativa com Microsoft Copilot'
+    Podcast 'Cofrinho Digital: o FGTS como você nunca viu antes' criado conforme as orientações do projeto abaixo para o 'Bootcamp Coding The Future: IA Generativa com Microsoft Copilot'
 </p>
 
 <div align="center">
